@@ -20,6 +20,6 @@ We compared auto-correlation and pairwise local correlation Z scores from the Ho
 <img src="img/img3.png">
 
 3. Files in this repository:
-PrismSpot.ipynb : jupyter notebook for loading the output of BayesPrism followed by Hotspot analysis of transcription factors. 
-export_BayesPrism.R: R script that outputs the deconvolved gene expression of tumor cells for Hotspot analysis. 
-benchmark.R: R script that compares PrismSpot to direct direct applying Hotspot on raw Visium data. 
+* PrismSpot.ipynb : jupyter notebook for loading the output of BayesPrism followed by Hotspot analysis of transcription factors. 
+* export_BayesPrism.R: R script that outputs the deconvolved gene expression of tumor cells for Hotspot analysis. 
+* benchmark.R: R script that compares PrismSpot to direct direct applying Hotspot on raw Visium data. 
